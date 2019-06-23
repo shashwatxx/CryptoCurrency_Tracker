@@ -1,0 +1,4 @@
+#Mon Jun 24 03:51:10 IST 2019
+base.0=/home/shashwat/DEVELOPMENT/Flutter/FLUTTER APP/cryptotracker/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
