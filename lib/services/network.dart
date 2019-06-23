@@ -1,4 +1,4 @@
-import 'package:http/http.dart' as http show Response, get;
+import 'package:http/http.dart' as http ;
 import 'dart:convert';
 
 class NetworkModel {
